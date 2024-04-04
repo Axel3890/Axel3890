@@ -1,7 +1,7 @@
 # Axel Gomez - Desarrollador FullStack
 
 ## 🚀 Sobre mí
-Soy un estudiante apasionado de Desarrollo Web Full Stack con un amplio conocimiento en diversas técnicas y tecnologías. Mis habilidades destacan en el uso de JavaScript, React.js, Redux, Express, PostgreSQL, Sequelize y Node.js.
+Soy un estudiante apasionado de Desarrollo Web Full Stack con un amplio conocimiento en diversas técnicas y tecnologías. Mis habilidades destacan en el uso de JavaScript, React.js, Redux, Next.js Express, PostgreSQL, Sequelize y Node.js.
 
 ## 🌐 Contacto
 - [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://axelgomez.vercel.app/)
